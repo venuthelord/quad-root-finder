@@ -1,0 +1,1 @@
+This code takes user input for the coefficients of a quadratic equation (a, b, and c) and then calculates the solutions using the quadratic formula. It then prints out the solutions. The "cmath" module is used to handle complex numbers. The variable 'd' represents the discriminant of the quadratic equation. If the discriminant is negative, the solutions will be complex numbers.
